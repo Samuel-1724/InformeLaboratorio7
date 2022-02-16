@@ -39,7 +39,7 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 
 **4.1.** Se realizará el siguiente circuito mixto en DCACLab. Se utilizarán las siguientes herramientas:}
 
-- Generador de Señales
+- Fuente de Voltaje Alterna
 - Osciloscopio
 - Multímetro
 - Bobinas
