@@ -77,29 +77,47 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 
 **5. RESULTADOS OBTENIDOS**
 
-**5.1**. Primero mediremos la oscilación con el osciloscopio en Vo, en cada nivel de Hz. Comenzaremos con el primer circuito de capacitores. Lo haremos a través de DCACLab.
+**5.1**. Primero mediremos la oscilación con el osciloscopio en Vo, la RMS con un multímetro en Vo y luego mediremos la corriente que pasa por la resistencia, todo esto en cada nivel de Hz. Comenzaremos con el primer circuito de capacitores. Lo haremos a través de DCACLab.
 
 [![8.png](https://i.postimg.cc/CMWFRg83/8.png)](https://postimg.cc/yWyqG2vj)
+
+[![5.png](https://i.postimg.cc/t4LqxG8Z/5.png)](https://postimg.cc/SnfFB3Sk)
+
+[![11.png](https://i.postimg.cc/6p0PkkN2/11.png)](https://postimg.cc/K11QLsjx)
 
 Con una frecuencia de 0 Hz
 
 [![9.png](https://i.postimg.cc/BZFrw18z/9.png)](https://postimg.cc/23z91y7d)
 
+[![6.png](https://i.postimg.cc/B6PwPd96/6.png)](https://postimg.cc/2bmxP95R)
+
+[![12.png](https://i.postimg.cc/cCzxBvFW/12.png)](https://postimg.cc/ctQGsLqk)
+
 Con una frecuencia de 10 Hz
 
 [![1.png](https://i.postimg.cc/fLcvYZL8/1.png)](https://postimg.cc/ZBq3hG6N)
+
+[![7.png](https://i.postimg.cc/mD6BTx3g/7.png)](https://postimg.cc/62RDhm1k)
+
+[![13.png](https://i.postimg.cc/mZ9BvgpP/13.png)](https://postimg.cc/vDGJ9bsy)
 
 Con una frecuencia de 50 Hz
 
 [![2.png](https://i.postimg.cc/qv6y80D2/2.png)](https://postimg.cc/fVZVs4Nb)
 
+[![8.png](https://i.postimg.cc/xCkTJT1z/8.png)](https://postimg.cc/5YVMDJv4)
+
 Con una frecuencia de 100 Hz
 
 [![3.png](https://i.postimg.cc/PrWPhx73/3.png)](https://postimg.cc/4m3JQJsV)
 
+[![9.png](https://i.postimg.cc/T3HzyjLt/9.png)](https://postimg.cc/fVm2p9vd)
+
 Con una frecuencia de 500 Hz
 
 [![4.png](https://i.postimg.cc/XYD306n1/4.png)](https://postimg.cc/k28LxZ6W)
+
+[![10.png](https://i.postimg.cc/DySRbjsR/10.png)](https://postimg.cc/jLrMphMh)
 
 Con una frecuencia de 1000 Hz
 
