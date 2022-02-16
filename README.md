@@ -37,16 +37,48 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 
 **4. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-**4.1.** Se realizará el siguiente circuito mixto en DCACLab. Se utilizarán las siguientes herramientas:}
+**4.1.** Se realizará el primer circuito mixto en DCACLab. Se utilizarán las siguientes herramientas:
+
+- Fuente de Voltaje Alterna
+- Osciloscopio
+- Multímetro
+- Capacitores
+
+[![vg.png](https://i.postimg.cc/HnRwBsRX/vg.png)](https://postimg.cc/QKgKMsXd)
+
+**4.2.** Conectamos el generador de señales en la placa de DCAClab, junto con el resistor, buscando la manera de que el circuito tenga la forma del sistema dado en el informe.
+
+[![1.png](https://i.postimg.cc/RCtZFLLG/1.png)](https://postimg.cc/6T9XbRSG)
+
+**4.3.** Ahora posicionamos los capacitores, siguiendo el modelo. Al final conectaremos el circuito hasta tierra para poder cerrarlo por completo.
+
+[![2.png](https://i.postimg.cc/MGCFxBWn/2.png)](https://postimg.cc/f3vKfJSs)
+
+[![3.png](https://i.postimg.cc/9fnXLpHw/3.png)](https://postimg.cc/NyRwMRMQ)
+
+**4.4.** Luego se realizará el segundo circuito mixto en DCACLab. Se utilizarán las siguientes herramientas:
 
 - Fuente de Voltaje Alterna
 - Osciloscopio
 - Multímetro
 - Bobinas
-- Capacitores
 
-[![vg.png](https://i.postimg.cc/HnRwBsRX/vg.png)](https://postimg.cc/QKgKMsXd)
+[![6.png](https://i.postimg.cc/qvmQZtbC/6.png)](https://postimg.cc/TKDrKPXR)
 
-**4.2.** Conectamos el generador de señales en la placa de DCAClab, de tal forma que el diseño del circuito dado en el informe sea similar al realizado.
+**4.5.** Conectamos el generador de señales en la placa de DCAClab, junto con el resistor, buscando la manera de que el circuito tenga la forma dEl sistema dado en el informe.
 
-[![1.png](https://i.postimg.cc/RCtZFLLG/1.png)](https://postimg.cc/6T9XbRSG)
+[![5.png](https://i.postimg.cc/xdwvWLKq/5.png)](https://postimg.cc/kVyRS6Yd)
+
+**4.6.** Ahora posicionamos los inductores, siguiendo el modelo. Al final conectaremos el circuito hasta tierra para poder cerrarlo por completo.
+
+[![7.png](https://i.postimg.cc/90JqF9qd/7.png)](https://postimg.cc/p55dspCr)
+
+[![4.png](https://i.postimg.cc/nrRCtt6T/4.png)](https://postimg.cc/T5bRrB2W)
+
+**5. RESULTADOS OBTENIDOS**
+
+**5.1**. Primero mediremos la oscilación con el osciloscopio en Vo, en cada nivel de Hz. Comenzaremos con el primer circuito de capacitores. Lo haremos a través de DCACLab.
+
+
+
+
