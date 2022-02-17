@@ -199,3 +199,8 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 | 500 | 0.13 mA | 8.41 V | 8.35 V |
 | 1000 |0.25 mA |9.52V  | 6.69 V |
 
+**5.5.** Luego de haber obtenido los datos necesarios, podemos responder a las preguntas que el informe presenta.
+
+**5.5.1.** ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+
+
