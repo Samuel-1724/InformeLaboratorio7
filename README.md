@@ -205,7 +205,14 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 La bobina se mantiene estable, conservando la energía cargada. La oscilación es lenta pero se estabiliza enseguida con un voltaje de 2.45 V. El capacitor en cambio se demora más en estabilizarse y su voltaje es mayor, de 6.57V.
 
 **5.5.2.** ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
-En este casi la bobina y el capacitor demoran mucho más en conseguir una oscilación constante y por ende que su voltaje quede mejor definido 
+En este casi la bobina y el capacitor demoran mucho más en conseguir una oscilación constante y por ende que su voltaje se demore más en mantenerse definido; sin embargo, cuando la corriente es alterna, la tensión es mayor en la bobina y el capacitor.
+
+**5.5.3.** ¿Qué cree usted que ocurriria con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Pues la variación de tensión sería distinta para ambos casos. Con respecto a la resistencia, los amperios variarian un poco más, pero no sería mucho, en cambio el voltaje Vo si variaría un poco más, debido a que se encuntra en los efectos de estos dos capacitores en paralelo y la tensión variaria mucho más.
+
+**5.5.4.** ¿Qué son los valores eficacez de voltaje y corriente?
+Es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 **6. VÍDEO**
 
@@ -213,11 +220,7 @@ https://www.youtube.com/watch?v=E8NaUUK9Ilk
 
 **7. CONCLUSIONES**
 
-Con el siguiente informe de laboratorio pudimos observar y aplicar el concepto de MTP el cuál nos habla sobre la transferencia de máxima potencia en un circuito, especialemente cuando se trata de uno de Thevenin. Se aplicó sus características y se vio los pasos necesarios para lograr conseguir esta potencia requerida. De igual forma observamos y comparamos la ecuación de MTP con la ecuación normal de potencia, la cual también fue usada para describir las potencias de cada RL.
-
-Luego realizamos el circuito requerido en Tinkercad y tomamos las medidas requeridas para completar el cuadro de datos. Gracias a esto es que pudimos darnos cuenta de la semenaja que se hay al usar el teorema de MTP y las ecuaciones normales de potencia. Logrando así encontrar la potenica máxima del circuito. 
-
-De igual forma, respondidmos a las preguntas planteadas por este informe y argumentamos cada una de ellas con su respectivo resultado y el porque de este.
+En este informe de laboratorio pudimos ver nuevas herramientas a utilizar en nuestro circuitos mixtos: inductores y capacitores. Definimos qué es cada uno y cómo utilizarlos en los circuitos. De igual forma los diferenciamos en sus tipos y los contrastamos para ver cuál serviría en qué caso. Luego armamos ambos circuitos usando la plataforma DCACLab, la cual posee el osciloscopio y el multímetro más detallados que otras plataformas. Armamos el circuito de la mejor manera posible tratando de imitar el circuito porpuesto 
 
 **8. BIBLIOGRAFÍA**
 
