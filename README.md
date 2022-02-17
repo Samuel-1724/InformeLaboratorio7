@@ -8,16 +8,16 @@ Inductor y Capacitor
 
 **2.1. Objetivo General**
 
-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+Comprobar experimentalmente el funcionamiento de los inductores y los capacitores en un circuito.
 
 **2.2. Objetivos Específicos**
 
-- Definir el teorema de Thevenin.
-- Entender sus pasos y la aplicación del Teorema de la Máxima Transferencia de Potencia.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 - Realizar el circuito propuesto de manera correcta y funcional.
-- Tomar las medidas de volatjes y corrientes en el circuito para comparar el teorema.
-- Realizar el teorema de MTP manualmente y comparar con las medidas obtenidas en Tinkercad.
-- Observar los resultados y concluir si el teorema es funcional. 
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores..
+- Familiarizarse con el uso de instrumentos de medida.
+- Observar los resultados y concluir para que sirve cada herramienta. 
 
 **3. MARCO TEÓRICO**
 
