@@ -202,5 +202,28 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 **5.5.** Luego de haber obtenido los datos necesarios, podemos responder a las preguntas que el informe presenta.
 
 **5.5.1.** ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+La bobina se mantiene estable, conservando la energía cargada. La oscilación es lenta pero se estabiliza enseguida con un voltaje de 2.45 V. El capacitor en cambio se demora más en estabilizarse y su voltaje es mayor, de 6.57V.
 
+**5.5.2.** ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
+En este casi la bobina y el capacitor demoran mucho más en conseguir una oscilación constante y por ende que su voltaje quede mejor definido 
 
+**6. VÍDEO**
+
+https://www.youtube.com/watch?v=E8NaUUK9Ilk
+
+**7. CONCLUSIONES**
+
+Con el siguiente informe de laboratorio pudimos observar y aplicar el concepto de MTP el cuál nos habla sobre la transferencia de máxima potencia en un circuito, especialemente cuando se trata de uno de Thevenin. Se aplicó sus características y se vio los pasos necesarios para lograr conseguir esta potencia requerida. De igual forma observamos y comparamos la ecuación de MTP con la ecuación normal de potencia, la cual también fue usada para describir las potencias de cada RL.
+
+Luego realizamos el circuito requerido en Tinkercad y tomamos las medidas requeridas para completar el cuadro de datos. Gracias a esto es que pudimos darnos cuenta de la semenaja que se hay al usar el teorema de MTP y las ecuaciones normales de potencia. Logrando así encontrar la potenica máxima del circuito. 
+
+De igual forma, respondidmos a las preguntas planteadas por este informe y argumentamos cada una de ellas con su respectivo resultado y el porque de este.
+
+**8. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Eris, N. (20 de Noviembre de 2017). Sesoricx. Obtenido de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+- Hain, J. (14 de Septiembre de 2019). Khan Academy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Gallo, H. (12 de Enero de 2019). Hetpro. Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
