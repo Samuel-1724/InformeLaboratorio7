@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=E8NaUUK9Ilk
 
 **7. CONCLUSIONES**
 
-En este informe de laboratorio pudimos ver nuevas herramientas a utilizar en nuestro circuitos mixtos: inductores y capacitores. Definimos qué es cada uno y cómo utilizarlos en los circuitos. De igual forma los diferenciamos en sus tipos y los contrastamos para ver cuál serviría en qué caso. Luego armamos ambos circuitos usando la plataforma DCACLab, la cual posee el osciloscopio y el multímetro más detallados que otras plataformas. Armamos el circuito de la mejor manera posible tratando de imitar el circuito porpuesto 
+En este informe de laboratorio pudimos ver nuevas herramientas a utilizar en nuestro circuitos mixtos: inductores y capacitores. Definimos qué es cada uno y cómo utilizarlos en los circuitos. De igual forma los diferenciamos en sus tipos y los contrastamos para ver cuál serviría en qué caso. Luego armamos ambos circuitos usando la plataforma DCACLab, la cual posee el osciloscopio y el multímetro más detallados que otras plataformas. Armamos el circuito de la mejor manera posible tratando de imitar el circuito porpuesto, en el primero utilizamos los capacitores, colocandonos con la cantidad de faradios que requieren. En el segundo circuito colocamos las bobinas como se han propuesto. Luego se utilizó las herramientas de DCACLab para poder averiguar los voltajes que se requieren y encontrar los amperios de la resistencia. De esta manera se podra realizar una tabla con todos los datos propuestos y 
 
 **8. BIBLIOGRAFÍA**
 
