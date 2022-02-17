@@ -177,7 +177,7 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 
 **Con una frecuencia de 1000 Hz**
 
-**5.5.** Cómo ya poseemos todos los datos necesarios del primer circuito de capacitores; rellenamos la tabla con los voltajes pico, los voltajes de multímetro y la corriente de la resistencia.
+**5.3.** Cómo ya poseemos todos los datos necesarios del primer circuito de capacitores; rellenamos la tabla con los voltajes pico, los voltajes de multímetro y la corriente de la resistencia.
 
 | Frecuencia (Hz)  | Corriente Resistencia (mA)  | Voltaje pico (Vo)   | Voltaje multímetro Vo (RMS)  |
 | ------------ | ------------ | ------------ | ------------ | 
@@ -187,4 +187,15 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 | 100 | 125.65 mA | 6.2 V | 4.48 V |
 | 500 | 626.67 mA | 1.57 V | 7.91 V |
 | 1000 | 1.24 A |821.5 mV  | 0.485 V |
+
+**5.4.** Cómo ya poseemos todos los datos necesarios del segundo circuito de bobinas; rellenamos la tabla con los voltajes pico, los voltajes de multímetro y la corriente de la resistencia.
+
+| Frecuencia (Hz)  | Corriente Resistencia (mA)  | Voltaje pico (Vo)   | Voltaje multímetro Vo (RMS)  |
+| ------------ | ------------ | ------------ | ------------ | 
+| 0 | 0.22 mA  | 2.45 V  | 0.30 V  |  
+| 10 | 6.36 A | 312.10 mV  | 0.19 V |
+| 50 | 1.27 A | 1.54 V | 1.08 V |
+| 100 | 0.25 mA | 2.98 V | 2.08 V |
+| 500 | 0.13 mA | 8.41 V | 8.35 V |
+| 1000 |0.25 mA |9.52V  | 6.69 V |
 
