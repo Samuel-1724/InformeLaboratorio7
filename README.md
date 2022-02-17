@@ -131,25 +131,49 @@ Un capacitor o también conocido como condensador es un dispositivo capaz de alm
 
 [![1.png](https://i.postimg.cc/N0V7rDcf/1.png)](https://postimg.cc/PLW8gmJB)
 
+[![8.png](https://i.postimg.cc/3JRqpSM2/8.png)](https://postimg.cc/MXCtJYpG)
+
+[![13.png](https://i.postimg.cc/1XhsYkpn/13.png)](https://postimg.cc/ftKGVgqD)
+
 **Con una frecuencia de 0 Hz**
 
 [![2.png](https://i.postimg.cc/Y2xG5RsG/2.png)](https://postimg.cc/HjVk5wHd)
+
+[![9.png](https://i.postimg.cc/FzcVgLZ5/9.png)](https://postimg.cc/Lg9PmhwN)
+
+[![14.png](https://i.postimg.cc/TP58Mk2r/14.png)](https://postimg.cc/Jy8Yj5kn)
 
 **Con una frecuencia de 10 Hz**
 
 [![3.png](https://i.postimg.cc/Fs898JNk/3.png)](https://postimg.cc/N58qrFyQ)
 
+[![10.png](https://i.postimg.cc/qv7CpK3J/10.png)](https://postimg.cc/jLGjXLcm)
+
+[![15.png](https://i.postimg.cc/jdD4hBMQ/15.png)](https://postimg.cc/N5wXsCq5)
+
 **Con una frecuencia de 50 Hz**
 
 [![4.png](https://i.postimg.cc/bYF8S2GV/4.png)](https://postimg.cc/9zTsv0Yy)
+
+[![11.png](https://i.postimg.cc/CKNtkWKH/11.png)](https://postimg.cc/cKvXNkwr)
+
+[![16.png](https://i.postimg.cc/wMm315kJ/16.png)](https://postimg.cc/q6ppY3SM)
 
 **Con una frecuencia de 100 Hz**
 
 [![5.png](https://i.postimg.cc/tR1R55HG/5.png)](https://postimg.cc/rzkLy5mf)
 
+[![12.png](https://i.postimg.cc/YqDQG8kG/12.png)](https://postimg.cc/crYvPRv0)
+
+[![17.png](https://i.postimg.cc/NG9Dc5Xv/17.png)](https://postimg.cc/4nGVv4wW)
+
 **Con una frecuencia de 500 Hz**
 
 [![6.png](https://i.postimg.cc/Bbfz2406/6.png)](https://postimg.cc/47wwgCnk)
+
+[![7.png](https://i.postimg.cc/c4SHLnVq/7.png)](https://postimg.cc/3Wt7Ld89)
+
+[![18.png](https://i.postimg.cc/RZFqkn3c/18.png)](https://postimg.cc/4mDJtyQd)
 
 **Con una frecuencia de 1000 Hz**
 
